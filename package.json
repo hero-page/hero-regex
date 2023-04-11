@@ -1,0 +1,39 @@
+{
+  "name": "@hero-page/hero-regex",
+  "version": "1.0.0",
+  "description": "A set of utility functions for working with regular expressions, such as finding and replacing text patterns and validating user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "regex",
+    "regular-expressions",
+    "utility",
+    "validation",
+    "pattern",
+    "find",
+    "replace",
+    "email",
+    "url",
+    "digits",
+    "uppercase",
+    "lowercase",
+    "special-chars",
+    "length",
+    "palindrome",
+    "words",
+    "phone-number",
+    "date",
+    "time",
+    "postal-code",
+    "ssn",
+    "credit-card",
+    "iban",
+    "ip"
+  ]
+}
